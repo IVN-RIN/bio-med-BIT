@@ -1,1 +1,1 @@
-# BioBERT-ita-paper
+# Data and Code for Italian BioBERT

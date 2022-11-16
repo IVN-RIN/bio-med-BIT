@@ -1,0 +1,763 @@
+1	38	59	Plasmodium falciparum	MED
+1	428	449	Plasmodium falciparum	MED
+1	996	1008	P falciparum	MED
+1	1264	1276	P falciparum	MED
+1	1525	1537	P falciparum	MED
+18	119	139	Solanum lycopersicum	BOT
+18	296	304	pomodoro	BOT
+18	493	501	pomodoro	BOT
+18	715	721	patata	BOT
+18	1572	1580	pomodoro	BOT
+22	526	546	Arabidopsis thaliana	BOT
+28	4	20	Candida albicans	MYC
+28	359	375	Candida albicans	MYC
+28	567	578	C. albicans	MYC
+28	654	678	Saccharomyces cerevisiae	MYC
+28	1436	1447	C. albicans	MYC
+36	821	844	Bythotrephes longimanus	ZOO
+36	966	985	Holopedium gibberum	ZOO
+42	11	22	trota fario	ZOO
+42	517	528	trota fario	ZOO
+42	541	553	Salmo trutta	ZOO
+42	611	633	galassie testa rotonda	ZOO
+42	635	652	Galaxias anomalus	ZOO
+42	651	677	la trota fario	ZOO
+42	1002	1024	galassie a testa tonda	ZOO
+42	1151	1166	galassie native	ZOO
+42	1223	1228	trota	ZOO
+42	1308	1313	trota	ZOO
+42	1634	1642	galassie	ZOO
+42	1739	1744	trota	ZOO
+42	1826	1834	galassie	ZOO
+42	1879	1887	galassie	ZOO
+42	1941	1949	galassie	ZOO
+42	1952	1957	trote	ZOO
+42	1982	1987	trote	ZOO
+42	2036	2044	galassie	ZOO
+42	2055	2063	galassie	ZOO
+42	2084	2092	galassie	ZOO
+49	344	364	Eichhornia crassipes	PRO
+49	1098	1110	E. crassipes	PRO
+58	96	117	Debaryomyces hansenii	MYC
+58	119	140	Debaryomyces hansenii	MYC
+58	395	406	D. hansenii	MYC
+60	1264	1285	Spirochaeta litoralis	PRO
+60	1284	1310	S. isovalerica	PRO
+60	1309	1327	S. cellobiosiphila	PRO
+75	399	409	grano duro	BOT
+75	411	425	Triticum durum	BOT
+76	574	598	Le pantere della Florida	ZOO
+76	600	619	Puma concolor coryi	ZOO
+76	760	776	P. c. stanleyana	ZOO
+78	129	153	Fusarium verticillioides	MYC
+78	155	182	Il Fusarium verticillioides	MYC
+78	269	273	mais	MYC
+78	353	358	umana	MYC
+78	494	512	F. verticillioides	MYC
+78	768	786	F. verticillioides	MYC
+78	815	827	F. oxysporum	MYC
+78	839	852	F. graminaceo	MYC
+78	1094	1098	mais	MYC
+78	1316	1321	 mais	MYC
+82	186	204	Eimeria nieschulzi	PRO
+82	219	238	Eimeria falciformis	PRO
+84	373	384	trote fario	ZOO
+84	386	398	Salmo trutta	ZOO
+84	408	424	Salmerino alpino	ZOO
+84	426	444	Salvelinus alpines	ZOO
+84	532	549	 salmerino alpino	ZOO
+84	578	588	 salmerino	ZOO
+84	617	622	charr	ZOO
+84	821	826	charr	ZOO
+89	38	56	Phytophthora sojae	MYC
+89	473	491	Phytophthora sojae	MYC
+89	886	890	soia	MYC
+101	44	64	Aspergillus nidulans	MYC
+101	155	175	Aspergillus nidulans	MYC
+101	378	389	A. nidulans	MYC
+101	628	639	A. nidulans	MYC
+101	887	898	A. nidulans	MYC
+103	108	130	topi dai piedi bianchi	ZOO
+103	500	522	topi dai piedi bianchi	ZOO
+103	524	543	Peromyscus leucopus	ZOO
+103	610	630	Borrelia burgdorferi	ZOO
+103	632	656	I topi dai piedi bianchi	ZOO
+103	890	912	topi dai piedi bianchi	ZOO
+103	1164	1169	umano	ZOO
+103	2459	2481	topi dai piedi bianchi	ZOO
+106	36	63	Aspergillus fumigatuscyp51A	MYC
+106	240	261	Aspergillus fumigatus	MYC
+106	740	751	A. fumigato	MYC
+106	1398	1410	A. fumigatus	MYC
+109	16	38	Neisseria meningitidis	BAC
+109	224	246	Neisseria meningitidis	BAC
+109	374	379	umano	BAC
+109	421	436	N. meningitidis	BAC
+109	1293	1301	coniglio	BAC
+111	167	187	Aeromonas hydrophila	BAC
+113	45	70	Rhizobium sp. ceppo LPU83	BAC
+113	665	690	Rhizobium sp. ceppo LPU83	BAC
+113	732	743	erba medica	BAC
+113	742	762	Leucena leucocephala	BAC
+113	901	912	erba medica	BAC
+113	932	954	Sinorhizobium meliloti	BAC
+113	957	978	Sinorhizobium medicae	BAC
+113	1098	1128	Rhizobium mongolense USDA 1844	BAC
+113	1149	1154	LPU83	BAC
+113	1257	1262	LPU83	BAC
+113	1279	1296	R. mongolese 1844	BAC
+113	1334	1359	Rhizobium sp. ceppo LPU83	BAC
+113	1405	1412	alfalfa	BAC
+113	1673	1678	LPU83	BAC
+113	1677	1696	LPU83-H	BAC
+113	1809	1814	LPU83	BAC
+113	1938	1949	erba medica	BAC
+123	109	141	Synechocystis sp. ceppo PCC 6803	BAC
+123	403	435	Synechocystis sp. ceppo PCC 6803	BAC
+126	254	265	P. penardii	PRO
+126	268	275	P. niei	PRO
+126	822	829	P. niei	PRO
+126	1098	1105	P. niei	PRO
+130	384	405	virus della soia nana	VIR
+130	407	411	SbDV	VIR
+130	414	440	Virus del fagiolo fogliare	VIR
+130	442	446	BLRV	VIR
+130	449	487	Virus della clorosi della barbabietola	VIR
+130	489	493	BChV	VIR
+130	496	545	Virus dell'ingiallimento lieve della barbabietola	VIR
+130	547	551	BMYV	VIR
+130	554	597	Virus della barbabietola gialla occidentale	VIR
+130	599	603	BWYV	VIR
+130	606	645	Virus della nana gialla dei cereali-RPV	VIR
+130	647	655	CYDV-RPV	VIR
+130	658	712	Virus dei gialli trasmessi dagli afidi della cucurbita	VIR
+130	714	719	CABYV	VIR
+130	722	759	Virus dell'arrotolamento delle patate	VIR
+130	758	762	PLRV	VIR
+130	769	792	Virus della rapa gialla	VIR
+130	794	798	TuYV	VIR
+130	1394	1402	CYDV-RPV	VIR
+130	1405	1409	TuYV	VIR
+130	1475	1479	SbDV	VIR
+130	1481	1485	BLRV	VIR
+130	1487	1491	BChV	VIR
+130	1493	1497	BMYV	VIR
+130	1499	1504	CABYV	VIR
+130	1519	1523	PLRV	VIR
+130	1526	1530	BWYV	VIR
+135	635	657	Tetrahymena canadensis	PRO
+135	659	681	Tetrahymena hegewischi	PRO
+135	683	705	Tetrahymena pyriformis	PRO
+135	707	727	Tetrahymena rostrata	PRO
+135	729	752	Tetrahymena thermophila	PRO
+135	757	779	Tetrahymena tropicalis	PRO
+147	350	374	Omegastrombidium elegans	PRO
+148	111	131	Arabidopsis thaliana	BOT
+148	501	521	Arabidopsis thaliana	BOT
+148	1156	1167	A. thaliana	BOT
+163	72	93	Aspergillus fumigatus	MYC
+163	166	187	Aspergillus fumigatus	MYC
+163	375	389	Pichiapastoris	MYC
+166	75	96	Aspergillus fumigatus	MYC
+166	147	152	umano	MYC
+166	153	174	Aspergillus fumigatus	MYC
+166	419	431	A. fumigatus	MYC
+166	756	768	A. fumigatus	MYC
+166	1011	1023	A. fumigatus	MYC
+186	469	488	Aspergillus terreus	MYC
+186	1434	1451	Aspergillus niger	MYC
+186	1580	1590	A. terreus	MYC
+200	134	139	grano	BOT
+200	215	223	frumento	BOT
+200	545	550	wheat	BOT
+201	318	349	Le piante Nicotiana benthamiana	BOT
+201	374	394	Virus della patata X	BOT
+201	396	400	 PVX	BOT
+203	115	126	Arabidopsis	BOT
+203	524	535	Arabidopsis	BOT
+208	112	120	bean bug	ENT
+208	121	140	Riptortus pedestris	ENT
+208	571	579	bean bug	ENT
+208	580	599	Riptortus pedestris	ENT
+215	43	64	 Eupolyphaga sinensis	ENT
+215	666	687	Euppolyphaga sinensis	ENT
+215	1003	1014	E. sinensis	ENT
+215	2028	2039	E. sinensis	ENT
+222	82	100	Beauveria bassiana	ENT
+222	103	124	 Metarhizium brunneum	ENT
+222	148	166	Beauveria bassiana	ENT
+222	189	209	Metarhizium brunneum	ENT
+222	406	417	B. bassiana	ENT
+222	650	661	B. bassiana	ENT
+222	875	886	M. brunneum	ENT
+222	1021	1032	B. bassiana	ENT
+222	1035	1046	M. brunneum	ENT
+222	1549	1560	B. bassiana	ENT
+222	1650	1661	M. brunneum	ENT
+222	1824	1835	B. bassiana	ENT
+222	1971	1982	M. brunneum	ENT
+222	2468	2494	falena della cera maggiore	ENT
+222	2496	2515	Galleria mellonella	ENT
+222	2733	2744	B. bassiana	ENT
+222	2747	2758	M. brunneum	ENT
+239	830	842	cinciallegra	ENT
+239	845	859	Parus major L.	ENT
+241	388	404	Tenebrio molitor	ENT
+241	528	546	Beauveria bassiana	ENT
+241	622	644	Metarhizium anisopliae	ENT
+241	719	745	lsaria (=Paecilomyces) sp.	ENT
+241	777	788	B. bassiana	ENT
+241	880	893	M. anisopliae	ENT
+241	1132	1158	tripidi dell'alloro cubano	ENT
+241	1227	1252	 mosca bianca della serra	ENT
+241	1254	1279	Trialeurodes vaporariorum	ENT
+241	1317	1328	B. bassiana	ENT
+241	1644	1655	B. bassiana	ENT
+241	1658	1671	M. anisopliae	ENT
+246	553	567	pidocchi umani	ENT
+263	178	209	Gli orthoreovirus dei mammiferi	VIR
+263	1490	1495	mouse	VIR
+269	34	78	 virus dell'immunodeficienza umana di tipo 1	VIR
+269	126	172	Il virus dell'immunodeficienza umana di tipo 1	VIR
+269	174	179	HIV-1	VIR
+269	283	288	HIV-1	VIR
+269	636	641	HIV-1	VIR
+269	746	751	HIV-1	VIR
+269	870	875	HIV-1	VIR
+269	1027	1032	HIV-1	VIR
+269	1138	1143	HIV-1	VIR
+269	1297	1302	HIV-1	VIR
+269	1433	1438	HIV-1	VIR
+269	1556	1561	HIV-1	VIR
+269	1744	1749	HIV-1	VIR
+289	11	29	Chlorella vulgaris	PRO
+289	42	61	Paramecium bursaria	PRO
+289	220	239	Paramecium bursaria	PRO
+289	646	671	Le cellule di P. bursaria	PRO
+290	357	393	Flavobacterium frigoris LMG 21922(T)	PRO
+290	404	436	Flavobacterium terrae R2A1-13(T)	PRO
+290	448	487	Flavobacterium gelidilacus LMG 21477(T)	PRO
+294	67	96	Poterioochromonas malhamensis	PRO
+294	219	248	Poterioochromonas malhamensis	PRO
+294	1026	1040	P. malhamensis	PRO
+294	1324	1338	P. malhamensis	PRO
+296	504	511	fungine	BOT
+296	552	571	Medicago truncatula	BOT
+296	574	587	Daucus carota	BOT
+296	1159	1172	M. truncatula	BOT
+305	82	113	influenza pandemica A/H1N1 2009	VIR
+305	115	153	virus dell'influenza stagionale A/H1N1	VIR
+305	156	194	virus dell'influenza stagionale A/H3N2	VIR
+305	196	253	Il virus dell'influenza pandemica A/H1N1 2009 (A/H1N1pdm)	VIR
+305	397	412	virus A/H1N1pdm	VIR
+305	593	608	virus A/H1N1pdm	VIR
+305	665	670	umano	VIR
+305	671	688	A/H1N1 stagionale	VIR
+305	709	733	virus influenzali A/H3N2	VIR
+305	1079	1104	ceppi virali di A/H1N1pdm	VIR
+305	1119	1146	A/Aichi/ 472/2009 (H1N1)pdm	VIR
+305	1149	1174	A/Sakai/89/2009 (H1N1)pdm	VIR
+305	1495	1502	A/H1pdm	VIR
+305	1504	1508	A/H3	VIR
+305	1511	1515	A/H1	VIR
+305	1572	1594	virus dell'influenza A	VIR
+305	1740	1760	virus dell'influenza	VIR
+305	1794	1811	virus influenzali	VIR
+307	15	47	virus della mionecrosi infettiva	VIR
+307	245	277	virus della mionecrosi infettiva	VIR
+307	279	283	IMNV	VIR
+307	614	626	BL21 E. coli	VIR
+307	1050	1054	IMNV	VIR
+307	1251	1289	virus della sindrome dei punti bianchi	VIR
+307	1291	1295	WSSV	VIR
+307	1298	1322	virus della testa gialla	VIR
+307	1324	1327	YHV	VIR
+307	1326	1367	Virus della sindrome di Taura	VIR
+307	1366	1369	TSV	VIR
+307	1368	1403	Nucleopoliedrovirus Penaeus monodon	VIR
+307	1404	1411	PemoNPV	VIR
+307	2021	2025	IMNV	VIR
+309	43	85	virus dell'afta epizootica del sierotipo A	VIR
+309	315	318	FMD	VIR
+309	1032	1035	FMD	VIR
+312	643	658	sicurezza umana	MED
+312	927	948	controllo del tabacco	MED
+312	1323	1330	tabacco	MED
+312	1406	1413	tabacco	MED
+321	599	623	Plasmodiophora brassicae	PRO
+321	626	649	Spongospora subterranea	PRO
+321	684	697	Brassica rapa	PRO
+321	700	717	Solanum tuberosum	PRO
+321	957	971	S. subterranea	PRO
+321	1227	1241	S. subterranea	PRO
+329	120	140	Leavenworthia crassa	BOT
+329	227	247	Arabidopsis thaliana	BOT
+329	593	604	A. thaliana	BOT
+329	1420	1431	A. thaliana	BOT
+329	1434	1443	L. crassa	BOT
+341	74	86	ape da miele	ENT
+341	88	103	 Apis mellifera	ENT
+341	714	726	api da miele	ENT
+341	995	1007	api da miele	ENT
+341	1018	1028	Drosophila	ENT
+347	129	148	Gryllus bimaculatus	ENT
+347	413	439	Gryllus bimaculatus DeGeer	ENT
+357	78	98	Enterococcus faecium	BAC
+357	136	156	Enterococcus faecium	BAC
+357	521	537	E. faecium E1162	BAC
+357	539	544	E1162	BAC
+357	626	632	 E1162	BAC
+357	1183	1193	E. faecium	BAC
+358	36	55	Paramecium caudatum	PRO
+358	725	744	Paramecium caudatum	PRO
+382	55	76	Chlamydia trachomatis	BAC
+389	0	24	Virus delta dell'epatite	MED
+389	26	50	Virus delta dell'epatite	MED
+389	52	55	HDV	MED
+389	135	155	virus dell'epatite B	MED
+389	157	160	HBV	MED
+389	258	261	HDV	MED
+389	353	362	epatite D	MED
+389	396	399	HBV	MED
+389	578	581	HDV	MED
+389	654	657	HBV	MED
+389	870	873	HDV	MED
+389	1015	1018	HDV	MED
+389	1151	1154	HDV	MED
+391	71	93	Pseudomonas aeruginosa	BAC
+391	121	143	Pseudomonas aeruginosa	BAC
+391	638	658	specifico del pilus 	BAC
+405	909	925	Ploesoma hudsoni	PRO
+413	2561	2566	umani	ZOO
+424	69	96	Gymnodinium myriopyrenoides	PRO
+424	208	235	Gymnodinium myriopyrenoides	PRO
+424	877	895	G. myriopyrenoides	PRO
+424	986	1011	Amphidinium poecilochroum	PRO
+424	1010	1042	Gymnodinium acidotum	PRO
+424	1210	1228	G. myriopyrenoides	PRO
+424	1511	1529	G. myriopyrenoides	PRO
+434	309	325	Casaurina glauca	BOT
+434	328	345	Datisca glomerata	BOT
+434	359	378	Medicago truncatula	BOT
+434	795	808	M. truncatula	BOT
+434	849	871	Sinorhizobium meliloti	BOT
+434	1168	1181	M. truncatula	BOT
+434	1297	1308	S. meliloti	BOT
+439	61	82	Amyostereum areolatum	MYC
+439	771	792	Amyostereum areolatum	MYC
+439	1477	1489	A. areolatum	MYC
+446	309	327	falena diamondback	BOT
+446	329	332	DBM	BOT
+446	335	354	Plutella xylostella	BOT
+446	671	674	DBM	BOT
+446	699	716	Barbarea vulgaris	BOT
+446	1708	1711	DBM	BOT
+447	86	94	girasole	BOT
+447	311	319	girasole	BOT
+447	321	339	 Helianthus annuus	BOT
+457	108	120	salmone coho	ZOO
+457	123	138	trote d'acciaio	ZOO
+457	1210	1219	steelhead	ZOO
+457	1222	1234	salmone coho	ZOO
+457	1575	1590	trota steelhead	ZOO
+457	1593	1605	salmone coho	ZOO
+457	1692	1701	steelhead	ZOO
+457	1792	1796	coho	ZOO
+457	2050	2059	steelhead	ZOO
+457	2221	2235	Trota di fiume	ZOO
+457	2238	2260	Salmone dell'Atlantico	ZOO
+457	2265	2279	Trota di fiume	ZOO
+461	571	588	Formica aquilonia	ZOO
+461	860	872	F. aquilonia	ZOO
+461	956	978	Camponotus herculeanus	ZOO
+461	1175	1187	F. aquilonia	ZOO
+461	1371	1383	F. aquilonia	ZOO
+461	1525	1537	F. aquilonia	ZOO
+461	2114	2126	F. aquilonia	ZOO
+475	77	88	Arabidopsis	BOT
+475	398	409	Arabidopsis	BOT
+485	0	39	Le cellule staminali pluripotenti umane	VIR
+485	107	112	HIV-1	VIR
+485	111	155	Individui con infezione da HIV-1	VIR
+485	676	717	cellule staminali embrionali (hESC) umane	VIR
+485	1057	1062	HIV-1	VIR
+485	1120	1125	HIV-1	VIR
+485	1124	1141	HIV-1	VIR
+485	1238	1243	HIV-1	VIR
+489	131	156	Piante di Artemisia annua	BOT
+489	287	312	piante di Artemisia annua	BOT
+489	542	550	A. annua	BOT
+489	1809	1826	A. piante annuali	BOT
+496	329	342	Aedes aegypti	ENT
+496	355	368	Aedes aegypti	ENT
+496	370	387	Anopheles gambiae	ENT
+496	390	414	 Anofele quadrimaculatus	ENT
+496	863	874	Ae. aegypti	ENT
+496	880	891	An. gambiae	ENT
+502	60	78	 verme del tabacco	ENT
+502	77	96	Heliothis virescens	ENT
+502	136	155	Heliothis virescens	ENT
+502	667	679	H. virescens	ENT
+502	872	884	H. virescens	ENT
+502	915	927	H. virescens	ENT
+505	86	102	Escherichia coli	BAC
+506	512	534	Histoplasma capsulatum	MYC
+506	537	566	Paracoccidioides brasiliensis	MYC
+506	699	723	Blastomyces dermatitidis	MYC
+506	726	740	Emmonsia parva	MYC
+506	896	908	B. dermatite	MYC
+506	910	918	E. parva	MYC
+506	921	951	P. brasiliensis specie complex	MYC
+506	1009	1025	Escherichia coli	MYC
+522	96	118	 zanzare Aedes aegypti	ENT
+522	290	303	Aedes aegypti	ENT
+522	880	891	Ae. aegypti	ENT
+522	1146	1169	Ae australiani. aegypti	ENT
+540	786	791	umani	BAC
+549	989	995	 volpe	ZOO
+549	1251	1281	Gli squali pinna nera del reef	ZOO
+550	0	40	Methanoregula boonei gen. nov., sp. nov.	PRO
+550	163	166	6A8	PRO
+550	831	834	6A8	PRO
+550	1101	1141	Methanoregula boonei gen. nov., sp. nov.	PRO
+550	1159	1179	Methanoregula boonei	PRO
+550	1182	1185	6A8	PRO
+559	793	812	Microsporum gypseum	MYC
+559	811	830	Trichophyton rubrum	MYC
+559	1344	1363	Galleria mellonella	MYC
+559	1365	1382	falena della cera	MYC
+565	0	19	Galleria mellonella	MYC
+565	66	84	Fusarium ossisporo	MYC
+565	86	104	Fusarium oxysporum	MYC
+565	103	108	umani	MYC
+565	241	290	F. ossisporo f. sp. lycopersici isolato FGSC 9935	MYC
+565	318	336	piante di pomodoro	MYC
+565	344	348	topi	MYC
+565	507	516	FGSC 9935	MYC
+565	541	567	falena della cera maggiore	MYC
+565	568	587	Galleria mellonella	MYC
+565	683	688	umani	MYC
+565	761	774	G. mellonella	MYC
+565	903	928	F. oxysporum transformant	MYC
+565	1024	1037	G. mellonella	MYC
+565	1174	1182	pomodoro	MYC
+565	1200	1204	topo	MYC
+565	1285	1290	mouse	MYC
+565	1413	1425	F. oxysporum	MYC
+567	113	130	Bombus terrestris	ENT
+567	132	149	Bombus terrestris	ENT
+567	1086	1099	B. terrestris	ENT
+568	126	132	dengue	VIR
+568	199	211	virus dengue	VIR
+568	448	460	virus dengue	VIR
+568	629	635	dengue	VIR
+568	1365	1383	virus della dengue	VIR
+568	1382	1388	dengue	VIR
+573	160	178	Tuber melanosporum	MYC
+573	499	517	Tuber melanosporum	MYC
+573	1001	1008	lievito	MYC
+573	1303	1311	 lievito	MYC
+588	52	70	 Bacillus subtilis	BAC
+588	253	270	Bacillus subtilis	BAC
+593	196	212	Escherichia coli	BAC
+611	119	135	Botrytis cinerea	MYC
+611	333	340	lievito	MYC
+611	341	365	Saccharomyces cerevisiae	MYC
+611	582	598	Botrytis cinerea	MYC
+611	1428	1435	lievito	MYC
+611	1488	1498	B. cinerea	MYC
+613	492	495	HIV	MED
+613	674	677	HIV	MED
+613	1004	1021	virus Chikungunya	MED
+613	1138	1147	epatite A	MED
+613	1150	1157	virus E	MED
+617	0	18	Tuber melanosporum	BOT
+617	229	247	Tuber melanosporum	BOT
+617	292	304	tartufi neri	BOT
+617	447	454	tartufo	BOT
+617	612	619	tartufo	BOT
+617	1663	1678	T. melanosporum	BOT
+617	1742	1749	tartufo	BOT
+620	709	723	topo domestico	ZOO
+620	725	739	Mus domesticus	ZOO
+620	1026	1030	topo	ZOO
+620	1076	1080	topo	ZOO
+620	1189	1206	pezzi di arachidi	ZOO
+620	1309	1325	olio di arachidi	ZOO
+620	1701	1705	topi	ZOO
+620	1912	1917	Mouse	ZOO
+620	2316	2320	topi	ZOO
+621	354	364	Song Wrens	ZOO
+621	363	388	Cyphorhinus phaeocephalus	ZOO
+621	709	719	Song Wrens	ZOO
+629	180	194	pernice bianca	ZOO
+629	268	282	pernice bianca	ZOO
+629	283	298	Lagopus lagopus	ZOO
+629	2557	2566	girfalchi	ZOO
+629	2567	2583	Falco rusticolus	ZOO
+629	2614	2623	girfalchi	ZOO
+635	6	21	vibrio cholerae	BAC
+635	223	238	Vibrio cholerae	BAC
+635	915	926	V. cholerae	BAC
+635	1315	1326	V. cholerae	BAC
+635	1768	1779	V. cholerae	BAC
+639	43	62	Salmonella enterica	BAC
+642	88	92	riso	BOT
+642	189	193	riso	BOT
+642	195	207	Oryza sativa	BOT
+642	246	250	riso	BOT
+642	366	380	piante di riso	BOT
+642	1787	1791	riso	BOT
+647	49	69	Phytophthora ramorum	MYC
+647	150	170	Phytophthora ramorum	MYC
+653	488	505	coxsackievirus A9	VIR
+653	507	511	CAV9	VIR
+653	908	912	CAV9	VIR
+653	1093	1097	CAV9	VIR
+653	1223	1227	CAV9	VIR
+653	1329	1333	CAV9	VIR
+655	794	841	Virus del mosaico necrotico del trifoglio rosso	VIR
+655	843	849	 RCNMV	VIR
+655	851	856	RCNMV	VIR
+655	1553	1558	RCNMV	VIR
+660	78	98	virus dell'epatite A	VIR
+660	170	190	virus dell'epatite A	VIR
+660	192	195	HAV	VIR
+660	194	216	le galline	VIR
+660	274	277	HAV	VIR
+660	280	283	HAV	VIR
+660	550	553	HAV	VIR
+660	917	920	HAV	VIR
+660	1008	1011	HAV	VIR
+660	1131	1134	HAV	VIR
+660	1248	1251	HAV	VIR
+660	1258	1265	galline	VIR
+660	1452	1472	virus dell'epatite A	VIR
+669	16	39	fringuelli a coda lunga	ZOO
+669	67	104	Gould in via di estinzione fringuello	ZOO
+669	422	442	Fringillide di Gould	ZOO
+669	444	462	Erythrura gouldiae	ZOO
+669	476	503	fringuello dalla coda lunga	ZOO
+669	505	524	Poephila acuticauda	ZOO
+669	761	769	Gouldian	ZOO
+669	782	809	fringuelli dalla coda lunga	ZOO
+669	871	891	 fringuello di Gould	ZOO
+669	1179	1202	fringuelli a coda lunga	ZOO
+669	1360	1380	Fringillidi di Gould	ZOO
+670	106	123	Bacillus subtilis	BAC
+670	300	317	Bacillus subtilis	BAC
+670	447	458	B. subtilis	BAC
+671	700	720	Somateria mollissima	ZOO
+674	72	90	Nocardia farcinica	BAC
+674	313	341	Nocardia farcinica IFM 10152	BAC
+674	1478	1490	N. farcinica	BAC
+682	1600	1605	umane	MED
+698	126	147	Acetobacterium woodii	BAC
+698	184	205	Acetobacterium woodii	BAC
+698	1148	1164	Escherichia coli	BAC
+708	118	145	Saccharomycopsis fibuligera	MYC
+708	167	194	Saccharomycopsis fibuligera	MYC
+708	598	611	S. fibuligera	MYC
+708	1185	1198	S. fibuligera	MYC
+712	71	87	Escherichia coli	BAC
+712	204	220	Escherichia coli	BAC
+722	0	38	Virus dell'immunodeficienza scimmiesca	VIR
+722	43	63	fuligginoso mangabey	VIR
+722	66	79	macaco rhesus	VIR
+722	354	363	SIVmac239	VIR
+722	494	511	seme di jackfruit	VIR
+722	631	640	SIVmac239	VIR
+722	683	692	SIVmac239	VIR
+722	815	854	virus dell'immunodeficienza scimmiesca 	VIR
+722	856	859	SIV	VIR
+722	991	1000	SIVmac239	VIR
+722	1086	1095	SIVmac239	VIR
+722	1230	1233	SIV	VIR
+722	1313	1322	SIVmac239	VIR
+722	1338	1355	ceppo HIV-1 NL4-3	VIR
+722	1433	1439	SIVmac	VIR
+722	1442	1447	SIVsm	VIR
+722	1549	1554	HIV-1	VIR
+722	1566	1572	SIVcpz	VIR
+722	1604	1613	SIVmac239	VIR
+722	1766	1772	SIVmac	VIR
+722	1771	1776	SIVsm	VIR
+722	1819	1825	SIVcpz	VIR
+722	1828	1833	HIV-1	VIR
+722	1894	1899	HIV-2	VIR
+722	2042	2048	SIVmac	VIR
+722	2051	2056	SIVsm	VIR
+722	2094	2099	HIV-1	VIR
+722	2102	2108	SIVcpz	VIR
+725	3	6	HIV	VIR
+725	13	46	virus della stomatite vescicolare	VIR
+725	169	172	HIV	VIR
+725	182	215	virus della stomatite vescicolare	VIR
+725	250	253	VSV	VIR
+725	282	288	virali	VIR
+725	309	312	HIV	VIR
+725	322	326	 VSV	VIR
+725	402	405	VSV	VIR
+725	424	429	virus	VIR
+725	489	495	virali	VIR
+725	586	589	HIV	VIR
+725	599	602	VSV	VIR
+725	657	674	captazione virale	VIR
+725	745	748	HIV	VIR
+725	755	758	VSV	VIR
+725	889	892	HIV	VIR
+725	891	906	HIV	VIR
+727	337	348	Virus Junin	VIR
+727	350	354	JUNV	VIR
+727	358	369	Virus Lassa	VIR
+727	371	375	LASV	VIR
+727	427	432	umani	VIR
+727	570	574	JUNV	VIR
+727	807	811	LASV	VIR
+727	868	872	JUNV	VIR
+727	874	878	LASV	VIR
+727	1258	1262	JUNV	VIR
+727	1265	1269	LASV	VIR
+727	1407	1411	topo	VIR
+727	1577	1581	JUNV	VIR
+727	1584	1588	LASV	VIR
+728	708	741	opossum comune a coda di spazzola	ZOO
+728	743	764	Trichosurus vulpecula	ZOO
+729	52	94	herpesvirus associato al sarcoma di Kaposi	VIR
+729	96	141	 L'herpesvirus associato al sarcoma di Kaposi	VIR
+729	143	147	KSHV	VIR
+729	167	172	umani	VIR
+729	324	328	KSHV	VIR
+729	944	948	KSHV	VIR
+729	1025	1029	KSHV	VIR
+729	1069	1073	KSHV	VIR
+729	1088	1093	umani	VIR
+729	1130	1147	Infezione da KSHV	VIR
+729	1414	1418	KSHV	VIR
+730	12	23	virus amico	VIR
+730	22	40	deficit di Apobec3	VIR
+730	52	56	topi	VIR
+730	231	247	retrovirus amico	VIR
+730	249	251	FV	VIR
+730	833	837	topo	VIR
+730	1161	1165	topi	VIR
+730	1248	1250	FV	VIR
+730	1373	1378	mouse	VIR
+731	2928	2933	umano	ZOO
+733	233	246	Osmia cornuta	ENT
+733	381	391	O. cornuta	ENT
+736	24	38	HIV-1 CRF01_AE	VIR
+736	235	240	HIV-1	VIR
+736	375	380	HIV-1	VIR
+736	640	645	HIV-1	VIR
+736	803	811	CRF01_AE	VIR
+736	946	970	varianti del sottotipo B	VIR
+736	1048	1056	CRF01_AE	VIR
+736	1200	1203	HIV	VIR
+736	1282	1290	CRF01_AE	VIR
+736	1293	1304	sottotipo B	VIR
+736	1540	1543	HIV	VIR
+736	1712	1715	HIV	VIR
+738	81	96	cotton bollworm	ENT
+738	97	112	Helicoverpa zea	ENT
+738	154	169	Helicoverpa zea	ENT
+738	297	317	Helicoverpa armigera	ENT
+738	326	332	H. zea	ENT
+738	352	371	Helicoverpa assunta	ENT
+738	394	400	H. zea	ENT
+738	403	414	H. armigera	ENT
+738	469	480	H. armigera	ENT
+738	590	596	H. zea	ENT
+738	983	989	H. zea	ENT
+738	993	1004	H. armigera	ENT
+738	1146	1152	H. zea	ENT
+752	-1	27	Candida albicans	MYC
+752	185	201	Candida albicans	MYC
+756	63	100	Xanthomonas campestris pv. campestris	BAC
+756	157	194	Xanthomonas campestris pv. campestris	BAC
+756	848	874	X. campestre pv. campestre	BAC
+756	1516	1542	X. campestre pv. campestre	BAC
+759	39	55	Candida albicans	MYC
+759	191	207	Candida albicans	MYC
+759	264	275	C. albicans	MYC
+759	501	512	C. albicans	MYC
+759	639	650	C. albicans	MYC
+762	10	20	wSinvictaA	ENT
+762	58	74	formica di fuoco	ENT
+762	75	93	Solenopsis invicta	ENT
+762	1084	1100	formica di fuoco	ENT
+762	1101	1119	Solenopsis invicta	ENT
+762	1271	1281	S. invicta	ENT
+762	1344	1354	S. invicta	ENT
+762	1542	1552	wSinvictaA	ENT
+762	1613	1648	formica di fuoco appena accoppiati 	ENT
+762	1729	1739	wSinvictaA	ENT
+765	31	38	manioca	ENT
+765	70	82	melone mosca	ENT
+765	84	105	Bactrocera cucurbitae	ENT
+765	108	136	Mosca della frutta orientale	ENT
+765	139	149	B. dorsale	ENT
+765	250	266	mosca del melone	ENT
+765	268	289	Bactrocera cucurbitae	ENT
+765	377	405	mosca della frutta orientale	ENT
+765	407	418	B. dorsalis	ENT
+765	663	676	B. cucurbitae	ENT
+765	737	744	manioca	ENT
+765	746	763	Manihot esculenta	ENT
+765	829	842	B. cucurbitae	ENT
+765	863	875	M. esculenta	ENT
+765	1175	1187	M. esculenta	ENT
+765	1304	1308	mais	ENT
+765	1310	1319	 Zea mays	ENT
+765	1401	1414	B. cucurbitae	ENT
+765	1509	1515	papaia	ENT
+765	1516	1529	Carica papaya	ENT
+765	1604	1616	B. cucurbite	ENT
+765	1619	1629	B. dorsale	ENT
+765	1646	1658	M. esculenta	ENT
+765	1745	1751	ricino	ENT
+765	1753	1768	Ricino communis	ENT
+765	1883	1896	B. cucurbitae	ENT
+765	1903	1907	mais	ENT
+765	1906	1932	B. cucurbitae	ENT
+765	2054	2066	M. esculenta	ENT
+765	2115	2126	R. communis	ENT
+765	2139	2151	B. cucurbite	ENT
+765	2154	2164	B. dorsale	ENT
+765	2210	2222	M. esculenta	ENT
+765	2412	2429	fagiolo di ricino	ENT
+765	2573	2577	mais	ENT
+776	123	128	umano	ZOO
+776	185	190	umano	ZOO
+776	289	294	umano	ZOO
+776	517	522	umana	ZOO
+776	1228	1233	umani	ZOO
+776	1950	1955	umano	ZOO
+776	2443	2448	umano	ZOO
+779	0	23	Methanoregula formicica	PRO
+779	143	150	SMSP(T)	PRO
+779	1218	1225	SMSP(T)	PRO
+779	1384	1408	Methanoregula boonei 6A8	PRO
+779	1610	1617	SMSP(T)	PRO
+779	1620	1644	Methanoregula boonei 6A8	PRO
+779	2022	2029	SMSP(T)	PRO
+779	2117	2140	Methanoregula formicica	PRO
+779	2169	2176	SMSP(T)	PRO
+787	0	36	Streptomyces hyderabadensis sp. nov.	PRO
+787	112	117	OU-40	PRO
+787	451	456	OU-40	PRO
+787	531	550	Streptomyces pactum	PRO
+787	605	627	Streptomyces olivaceus	PRO
+787	653	674	Streptomyces parvulus	PRO
+787	707	712	OU-40	PRO
+787	925	930	OU-40	PRO
+787	1009	1045	Streptomyces hyderabadensis sp. nov.	PRO
+787	1078	1083	OU-40	PRO
+795	70	77	lattuga	BOT
+795	80	99	 piante di pomodoro	BOT
+795	169	176	lattuga	BOT
+795	320	327	lattuga	BOT
+795	330	338	pomodoro	BOT
+795	673	681	pomodoro	BOT
+795	784	792	pomodoro	BOT
+795	1206	1213	lattuga	BOT

@@ -1,1 +1,0 @@
-Italian textbooks cannot be shared due to copyright protection.

@@ -9,7 +9,7 @@ In the era of digital healthcare, the huge volumes of textual information genera
 
 *Keywords*: Natural Language Processing | Deep Learning | Language Model | Biomedical Text Mining | Transformer
 
-*Correspondence*: buonocore.tms@gmail.co
+*Correspondence*: buonocore.tms@gmail.com
 
 ## NLP Checkpoints
 
